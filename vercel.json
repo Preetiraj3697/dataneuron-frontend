@@ -1,0 +1,8 @@
+{
+    "routes": [
+      {
+        "src": "/api/*",
+        "dest": "https://zany-ray-yoke.cyclic.app/api/*"
+      }
+    ]
+  }
